@@ -4,7 +4,7 @@ apt updated && apt upgrade-y
 
 pkg install git 
 
-git clone https://github.com/DrZalost/Dr-report-V2/tree/main
+git clone https://github.com/DrZalost/Dr-report-V2
 
 
 cd Dr-report-V2
