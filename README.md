@@ -4,11 +4,11 @@ apt updated && apt upgrade-y
 
 pkg install git 
 
-git clone https://github.com/DrZalost/Dr-report
+git clone https://github.com/blackevil518/repoinsta
 
 
-cd Dr-report-V2
+cd repoinsta
 
 chmod +x * 
 
-python3 zalostreport.py
+python3 repoinsta.py
